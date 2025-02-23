@@ -68,7 +68,7 @@ Due to the extensive time invested in code development and in consideration of p
 
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn]([(https://www.linkedin.com/in/sateesh-ambesange-3020185/)])</b>
+- <b>[LinkedIn]([https://www.linkedin.com/in/sateesh-ambesange-3020185/])</b>
 - <b>[Medium](https://medium.com/@sateesh_ambesange)</b> 
 - <b>[PragyanAI.com](https://www.pragyanai.com/)</b>
 - <b>[New Kaggle](https://www.kaggle.com/)</b> 
