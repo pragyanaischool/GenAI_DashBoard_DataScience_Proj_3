@@ -68,13 +68,13 @@ Due to the extensive time invested in code development and in consideration of p
 
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <b>[LinkedIn]([(https://www.linkedin.com/in/sateesh-ambesange-3020185/)])</b>
+- <b>[Medium](https://medium.com/@sateesh_ambesange)</b> 
+- <b>[PragyanAI.com](https://www.pragyanai.com/)</b>
+- <b>[New Kaggle](https://www.kaggle.com/)</b> 
 
 ## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Sateesh Ambesange](mailto:sateesh.ambesange@pragyanai.com). We would love to hear from you!
 
 
 
